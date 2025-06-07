@@ -95,7 +95,7 @@ Com base nos achados, recomenda-se:
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/albvieiraa/churn-de-clientes-telecom-x.git
+git clone https://github.com/gabrielCsharp/telecom.git
 ```
 
 2. **Crie um ambiente virtual:**
@@ -119,7 +119,7 @@ jupyter notebook
 
 ## 👤 Autoria
 
-Projeto desenvolvido por **Maryllian Vieira**, como parte do **Challenge da Trilha de Especialização em Data Science** do programa **ONE: Oracle Next Education**, em parceria com a **Alura**.
+Projeto desenvolvido por **Gabriel Henrique**, como parte do **Challenge da Trilha de Especialização em Data Science** do programa **ONE: Oracle Next Education**, em parceria com a **Alura**.
 
 ---
 
